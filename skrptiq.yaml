@@ -3,7 +3,7 @@ id: "41cb77d1-e7a5-46dd-a127-6cce685f20b4"
 name: "check-consistency"
 display_name: "Check Consistency"
 description: "Checks naming, terminology, tense, voice, and internal coherence across a document"
-version: "1.0.3"
+version: "1.0.4"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "prompt"
+dependencies: []
+
 contents:
   skills: 0
   prompts: 1
