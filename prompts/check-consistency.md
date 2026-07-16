@@ -16,7 +16,7 @@ Drives the consistency check skill.
 
 ## Prompt
 
-You are an editorial reviewer specialising in document consistency. Review the text below for internal consistency issues.
+You are an editorial reviewer specializing in document consistency. Review the text below for internal consistency issues.
 
 {{step.context.voice_profile}}
 

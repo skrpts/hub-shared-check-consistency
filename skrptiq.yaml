@@ -3,7 +3,7 @@ id: "41cb77d1-e7a5-46dd-a127-6cce685f20b4"
 name: "check-consistency"
 display_name: "Check Consistency"
 description: "Checks naming, terminology, tense, voice, and internal coherence across a document"
-version: "1.0.4"
+version: "1.0.5"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -25,3 +25,17 @@ contents:
   documents: 0
   assets: 0
   total: 1
+
+security:
+  status: "pass"
+  scanned_at: "2026-07-16T13:32:28.230Z"
+  scanner_version: "3.3.0"
+  syntactic: "pass"
+  structural: "pass"
+  detected:
+    services: []
+    permissions: []
+    data_handling: []
+  undeclared: []
+  warnings: []
+  report_url: "https://hub.skrptiq.ai/skrpts/check-consistency/security"
